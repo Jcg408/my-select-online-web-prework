@@ -5,5 +5,4 @@ def my_select(collection)
     i+=1 
   end
   
- # your code here!
-end
+ end
